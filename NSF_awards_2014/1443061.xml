@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CIF21 DIBBs: Systematic Data-Driven Analysis and Tools for Spatiotemporal Solar Astronomy Data</AwardTitle>
+    <AwardEffectiveDate>11/01/2014</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2017</AwardExpirationDate>
+    <AwardAmount>1499933</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Advanced CyberInfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Amy Walton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The large quantities of data produced by modern solar telescopes provide a rich and rapidly growing opportunity for discovery. These large data sets create an unprecedented ability to observe correlations between phenomena that have previously gone unexplored. However, to harness the power of these large data sets, it is necessary to provide the solar physics and space weather communities with software tools that will rapidly and accurately catalog, explore, track and correlate solar phenomena.&lt;br/&gt;&lt;br/&gt;This project develops tools for processing large volumes of spatio-temporal solar data. Initially, the team enables tracking of all solar events previously identified by an international consortium (the Feature Finding Team of the Solar Dynamics Observatory) and reported to the Heliophysics Event Knowledgebase (HEK). Next, the team develops systematic spatiotemporal characterizations of solar event types, and identifies spatiotemporal co-occurrence patterns. Throughout the project, the team disseminates the generated data, discovered patterns, and developed software tools to the community. By adding an ability to track features previously identified by an international consortium, the project has potential to advance knowledge of solar phenomena, and the impact of such phenomena on space weather.</AbstractNarration>
+    <MinAmdLetterDate>08/14/2014</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/14/2014</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1443061</AwardID>
+    <Investigator>
+      <FirstName>Rafal</FirstName>
+      <LastName>Angryk</LastName>
+      <EmailAddress>angryk@cs.gsu.edu</EmailAddress>
+      <StartDate>08/14/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Katharine</FirstName>
+      <LastName>Reeves</LastName>
+      <EmailAddress>kreeves@cfa.harvard.edu</EmailAddress>
+      <StartDate>08/14/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Petrus</FirstName>
+      <LastName>Martens</LastName>
+      <EmailAddress>martens@physics.montana.edu</EmailAddress>
+      <StartDate>08/14/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Georgia State University Research Foundation, Inc.</Name>
+      <CityName>ATLANTA</CityName>
+      <ZipCode>303033999</ZipCode>
+      <PhoneNumber>4044133500</PhoneNumber>
+      <StreetAddress>G76Dahlberg Hall 30 Courtland St</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+  </Award>
+</rootTag>

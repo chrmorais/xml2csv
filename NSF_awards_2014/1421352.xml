@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>TWC: TTP Option: Small: Investigating Stealthy Hardware Trojans</AwardTitle>
+    <AwardEffectiveDate>09/01/2014</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>499997</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Nina Amla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Many systems ranging from consumer electronics to military equipment are dependent on integrated circuits (ICs). Thus, if the underlying IC in a system is maliciously manipulated by a hardware trojan, then the security of the entire system can be compromised. This project investigates hardware Trojans that do not rely on additional logic to affect security.&lt;br/&gt;&lt;br/&gt;The researchers study a class of Trojans that can be realized using low-level manipulations like subtle changes in logic, circuit or manufacturing process. They investigate scenarios where an attacker may take advantage of such manipulations, and develops countermeasures to protect ICs against hardware Trojans. This project explores new threat assessments for many applications of practical relevance. Considering society's reliance on integrated circuits, understanding the threat posed by low-level Trojans in IC design and manufacturing supply chain is of great importance.</AbstractNarration>
+    <MinAmdLetterDate>08/21/2014</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/21/2014</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1421352</AwardID>
+    <Investigator>
+      <FirstName>Christof</FirstName>
+      <LastName>Paar</LastName>
+      <EmailAddress>christof.paar@rub.de</EmailAddress>
+      <StartDate>08/21/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sandip</FirstName>
+      <LastName>Kundu</LastName>
+      <EmailAddress>kundu@ecs.umass.edu</EmailAddress>
+      <StartDate>08/21/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Massachusetts Amherst</Name>
+      <CityName>AMHERST</CityName>
+      <ZipCode>010039242</ZipCode>
+      <PhoneNumber>4135450698</PhoneNumber>
+      <StreetAddress>Research Administration Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+  </Award>
+</rootTag>

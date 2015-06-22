@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBE: Small: The Force of Habit: Using fMRI to Explain Users' Habituation to Security Warnings</AwardTitle>
+    <AwardEffectiveDate>09/01/2014</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2016</AwardExpirationDate>
+    <AwardAmount>294341</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jeremy Epstein</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Warning messages are one of the last lines of defense in computer security, and are fundamental to users' security interactions with technology. Unfortunately, research shows that users routinely ignore security warnings. A key contributor to this disregard is habituation, the diminishing of attention due to frequent exposure. However, previous research examining habituation has done so only indirectly, by observing the influence of habituation on security behavior, rather than measuring habituation itself. This project uses neuroscience to open the "black box" of the brain to observe habituation as it occurs. By investigating how repetition suppression occurs in the brain, researchers can make a more precise approach to designing security warnings that are resistant to the effects of habituation.&lt;br/&gt;&lt;br/&gt;Specifically, functional magnetic resonance imaging (fMRI) is used to measure how neural activity in the visual processing centers of the brain sharply decrease with repeated exposure to warnings. This phenomenon, termed the repetition suppression effect, is directly antecedent to the process of habituation. This project aims to: (1) directly measure how habituation of security warnings occurs in the brain; (2) examine how habituation towards security warnings develops over time using a longitudinal design; and (3) use fMRI brain data to guide the design of polymorphic (dynamic) security warnings, as well as to empirically test their effectiveness compared with existing security warnings. The insights gained from this project have the potential to inform the design and evaluation of warnings that more effectively help users to respond to security threats.</AbstractNarration>
+    <MinAmdLetterDate>08/25/2014</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/25/2014</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1422831</AwardID>
+    <Investigator>
+      <FirstName>C. Brock</FirstName>
+      <LastName>Kirwan</LastName>
+      <EmailAddress>brockkirwan@gmail.com</EmailAddress>
+      <StartDate>08/25/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Bonnie Brinton</FirstName>
+      <LastName>Anderson</LastName>
+      <EmailAddress>bonnie_anderson@byu.edu</EmailAddress>
+      <StartDate>08/25/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Anthony</FirstName>
+      <LastName>Vance</LastName>
+      <EmailAddress>anthony.vance@byu.edu</EmailAddress>
+      <StartDate>08/25/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Brigham Young University</Name>
+      <CityName>Provo</CityName>
+      <ZipCode>846021231</ZipCode>
+      <PhoneNumber>8014226177</PhoneNumber>
+      <StreetAddress>A-285 ASB</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Utah</StateName>
+      <StateCode>UT</StateCode>
+    </Institution>
+  </Award>
+</rootTag>
